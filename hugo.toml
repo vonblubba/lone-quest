@@ -1,3 +1,7 @@
+baseURL = 'https://lonequest.vonblubba.dev/'
+locale = 'en-us'
+title = 'Lone Quest'
+
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
