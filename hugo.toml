@@ -1,6 +1,7 @@
 baseURL = 'https://lonequest.vonblubba.dev/'
 locale = 'en-us'
 title = 'Lone Quest'
+theme = 'blonde'
 
 [caches]
   [caches.images]
