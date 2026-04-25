@@ -5,10 +5,12 @@ title: "PARALLAX, Session 6: The Green Box"
 draft: false
 slug: parallax-session-6-the-green-box
 tags: ["Delta Green","PARALLAX"]
+image: /images/2026/03/storage.jpeg
 cover:
     image: /images/2026/03/storage.jpeg
     alt: "PARALLAX, Session 6: The Green Box"
 description: 
+summary: "Session 6 of the campaign PARALLAX for Delta Green, where a party is formed."
 ---
 
 ## Scene setup
