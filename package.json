@@ -7,6 +7,8 @@
   "author": "wamo <ainznino@pm.me>",
   "license": "MIT",
   "scripts": {
+    "hook:commit": "echo 'No hooks to run'",
+    "hook:push": "echo 'No hooks to run'",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "devDependencies": {
