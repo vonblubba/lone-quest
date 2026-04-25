@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PARALLAX on Lone Quest</title>
+    <link>http://localhost:1313/categories/parallax/</link>
+    <description>Recent content in PARALLAX on Lone Quest</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 20 Apr 2026 13:36:02 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/parallax/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>PARALLAX, Session 7: The Motel</title>
+      <link>http://localhost:1313/post/parallax-session-7-the-motel/</link>
+      <pubDate>Mon, 20 Apr 2026 13:36:02 +0000</pubDate>
+      <guid>http://localhost:1313/post/parallax-session-7-the-motel/</guid>
+      <description>Session 7 of the campaign PARALLAX for Delta Green, where another victim of the tatto is met.</description>
+    </item>
+    <item>
+      <title>PARALLAX, Session 6: The Green Box</title>
+      <link>http://localhost:1313/post/parallax-session-6-the-green-box/</link>
+      <pubDate>Fri, 17 Apr 2026 06:00:10 +0000</pubDate>
+      <guid>http://localhost:1313/post/parallax-session-6-the-green-box/</guid>
+      <description>Session 6 of the campaign PARALLAX for Delta Green, where a party is formed.</description>
+    </item>
+    <item>
+      <title>PARALLAX, Session 10: Hypergeometry</title>
+      <link>http://localhost:1313/post/parallax-session-10-hypergeometry/</link>
+      <pubDate>Thu, 16 Apr 2026 13:54:30 +0000</pubDate>
+      <guid>http://localhost:1313/post/parallax-session-10-hypergeometry/</guid>
+      <description>Session 10 of the campaign PARALLAX for Delta Green, where the team faces an unexpected unnatural danger</description>
+    </item>
+    <item>
+      <title>PARALLAX, Session 9: A friend in need</title>
+      <link>http://localhost:1313/post/parallax-session-9-a-friend-in-need/</link>
+      <pubDate>Wed, 15 Apr 2026 14:23:34 +0000</pubDate>
+      <guid>http://localhost:1313/post/parallax-session-9-a-friend-in-need/</guid>
+      <description>Session 9 of the campaign PARALLAX for Delta Green, where a friend faces danger.</description>
+    </item>
+    <item>
+      <title>PARALLAX, Session 8: Hastur&#39;s shadow</title>
+      <link>http://localhost:1313/post/parallax-session-8-hasturs-shadow/</link>
+      <pubDate>Wed, 15 Apr 2026 11:30:55 +0000</pubDate>
+      <guid>http://localhost:1313/post/parallax-session-8-hasturs-shadow/</guid>
+      <description>Session 8 of the campaign PARALLAX for Delta Green, where the teams hits a dead end.</description>
+    </item>
+    <item>
+      <title>PARALLAX, Session 5: Twin Suns</title>
+      <link>http://localhost:1313/post/parallax-session-5-twin-suns/</link>
+      <pubDate>Tue, 14 Apr 2026 09:03:56 +0000</pubDate>
+      <guid>http://localhost:1313/post/parallax-session-5-twin-suns/</guid>
+      <description>Session 5 of the campaign PARALLAX for Delta Green, where things get moving before Lawrence is contacted again.</description>
+    </item>
+    <item>
+      <title>PARALLAX, Session 4: Contact</title>
+      <link>http://localhost:1313/post/parallax-session-4-contact/</link>
+      <pubDate>Tue, 07 Apr 2026 14:50:35 +0000</pubDate>
+      <guid>http://localhost:1313/post/parallax-session-4-contact/</guid>
+      <description>Session 4 of the campaign PARALLAX for Delta Green, where Lawrence gets an interesting briefing.</description>
+    </item>
+    <item>
+      <title>PARALLAX, Session 3: The Bag</title>
+      <link>http://localhost:1313/post/parallax-session-3-the-bag/</link>
+      <pubDate>Tue, 31 Mar 2026 10:19:25 +0000</pubDate>
+      <guid>http://localhost:1313/post/parallax-session-3-the-bag/</guid>
+      <description>Session 3 of the campaign PARALLAX for Delta Green, where Lawrence makes a choice.</description>
+    </item>
+    <item>
+      <title>PARALLAX, Session 2: Pariah</title>
+      <link>http://localhost:1313/post/parallax-session-2-pariah/</link>
+      <pubDate>Thu, 26 Mar 2026 10:42:29 +0000</pubDate>
+      <guid>http://localhost:1313/post/parallax-session-2-pariah/</guid>
+      <description>Session 2 of the campaign PARALLAX for Delta Green, where Lawrence&amp;rsquo;s vision of the world is shaken to the core.</description>
+    </item>
+    <item>
+      <title>PARALLAX, Session 1: The po-boy</title>
+      <link>http://localhost:1313/post/parallax-session-1-the-po-boy/</link>
+      <pubDate>Mon, 23 Mar 2026 10:16:37 +0000</pubDate>
+      <guid>http://localhost:1313/post/parallax-session-1-the-po-boy/</guid>
+      <description>Session 1 of the campaign PARALLAX for Delta Green, where Lawrence gets some work to do.</description>
+    </item>
+    <item>
+      <title>PARALLAX, Session 0: Main character creation</title>
+      <link>http://localhost:1313/post/session-0-main-character-creation/</link>
+      <pubDate>Sun, 15 Mar 2026 16:51:52 +0000</pubDate>
+      <guid>http://localhost:1313/post/session-0-main-character-creation/</guid>
+      <description>Session 0 for the Delta Green campaign PARALLAX, where we meet the main character, Lawrence Bartolini</description>
+    </item>
+  </channel>
+</rss>
