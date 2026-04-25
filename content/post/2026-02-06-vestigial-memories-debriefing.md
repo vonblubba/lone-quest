@@ -8,9 +8,10 @@ tags: ["Blade Runner","Vestigial Memories"]
 cover:
     image: /images/2026/02/br_core07_working_the_case_158-159-1-1-1.webp
     alt: Vestigial Memories, Debriefing
-description: 
+description:
+image: /images/2026/02/br_core07_working_the_case_158-159-1-1-1.webp
+summary: "Final debriefing for the \"Vestigial memories\" scenario"
 ---
-
 Holden is pacing his office, the neon glow of a "Wallace Corp" billboard across the street strobing rhythmically against his tired face. The arrest reports are stacked high on his desk, but there’s a hole in the middle of them where Kamarr’s name should be.
 
 **Holden:** "Thirty-two suspects in the bag, a warehouse full of illegal biomass, and the biggest lab bust in a decade. But the prize pig jumped the fence, Locke. Kamarr is gone. How do I explain that to the Commissioner?"

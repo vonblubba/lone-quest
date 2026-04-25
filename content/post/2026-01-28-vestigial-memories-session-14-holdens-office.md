@@ -8,9 +8,10 @@ tags: ["Blade Runner","Vestigial Memories"]
 cover:
     image: /images/2026/01/br_core07_working_the_case_158-159-1-1.webp
     alt: "Vestigial Memories, Session 14: Holden's Office"
-description: 
+description:
+image: /images/2026/01/br_core07_working_the_case_158-159-1-1.webp
+summary: "Session 14 of the scenario \"Vestigial Memories\" for the Blade Runner RPG, where Locke must report back to Holden without revealing too much."
 ---
-
 ## Scene setup
 
 > **Countdown event roll:** [D6]: [3] => no event

@@ -8,9 +8,10 @@ tags: ["Delta Green","PARALLAX"]
 cover:
     image: /images/2026/03/bag.jpeg
     alt: "PARALLAX, Session 3: The Bag"
-description: 
+description:
+image: /images/2026/03/bag.jpeg
+summary: "Session 3 of the campaign PARALLAX for Delta Green, where Lawrence makes a choice."
 ---
-
 ## Scene setup
 
 > **Expectations:** Lawrence will think about what just happened, evaluating his options. Jo will be back shortly, he will have to make a decision by then.

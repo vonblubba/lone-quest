@@ -8,9 +8,10 @@ tags: ["Call of Cthulhu","A Study in Dust and Stone"]
 cover:
     image: /images/2026/02/train.png
     alt: "A Study in Dust and Stone, Session 1:  Scenario setup"
-description: 
+description:
+image: /images/2026/02/train.png
+summary: "Session 1 of the scenario \"A study in Dust and Stone\" for Call of Cthulhu 7th ed, where Lorenzo faces a mystery from his past."
 ---
-
 In this log entry, I will perform the scenario setup rolls, as suggested in the [Solo Investigator's Handbook](https://www.drivethrurpg.com/en/product/266779/the-solo-investigator-s-handbook) by Paul Bimler.
 
 The rolls I made fit very well with the background history of my main character, so I went all the way on the "family secret" route. We'll see where this leads.

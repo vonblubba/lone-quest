@@ -8,9 +8,10 @@ tags: ["Delta Green","PARALLAX"]
 cover:
     image: /images/2026/04/Police-Building-Edit-3TAC_1611-1-scaled.jpg
     alt: "PARALLAX, Session 8: Hastur's shadow"
-description: 
+description:
+image: /images/2026/04/Police-Building-Edit-3TAC_1611-1-scaled.jpg
+summary: "Session 8 of the campaign PARALLAX for Delta Green, where the teams hits a dead end."
 ---
-
 ## Scene setup
 
 **Expectations:**

@@ -8,9 +8,10 @@ tags: ["Blade Runner","Vestigial Memories"]
 cover:
     image: /images/2026/02/br_core05_a_tale_of_two_cities_122-123.webp
     alt: "Vestigial Memories, Session 17: The Sea Wall Docks"
-description: 
+description:
+image: /images/2026/02/br_core05_a_tale_of_two_cities_122-123.webp
+summary: "Session 17 of the scenario \"Vestigial Memories\" for the Blade Runner RPG, where the final reckoning with Vestige is at hand."
 ---
-
 ## Scene setup
 
 I chose the *Sea Wall Docks* location because I wanted a scene happening there :-)

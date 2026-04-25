@@ -8,9 +8,10 @@ tags: ["Blade Runner","Vestigial Memories"]
 cover:
     image: /images/2026/01/br_core05_a_tale_of_two_cities_112-113.webp
     alt: "Vestigial Memories, Session 4: The Fish Ladies"
-description: 
+description:
+image: /images/2026/01/br_core05_a_tale_of_two_cities_112-113.webp
+summary: "Session 4 of the scenario \"Vestigial Memories\" for the Blade Runner RPG, where Locke visits Animoid Row to verify the witness' statements. This takes him to the Fish Ladies, a shop specialized in aquatic animoids."
 ---
-
 ### Scene setup
 
 > **Countdown Timer Event Check:**

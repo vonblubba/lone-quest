@@ -8,9 +8,10 @@ tags: ["Delta Green","PARALLAX"]
 cover:
     image: /images/2026/03/auttopsy.jpeg
     alt: "PARALLAX, Session 2: Pariah"
-description: 
+description:
+image: /images/2026/03/auttopsy.jpeg
+summary: "Session 2 of the campaign PARALLAX for Delta Green, where Lawrence's vision of the world is shaken to the core."
 ---
-
 ## Scene setup
 
 > **Expectations**

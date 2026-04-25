@@ -8,9 +8,10 @@ tags: ["Call of Cthulhu","A Study in Dust and Stone"]
 cover:
     image: /images/2026/02/tome.jpg
     alt: "A Study in Dust and Stone, Session 6: Ancient gods"
-description: 
+description:
+image: /images/2026/02/tome.jpg
+summary: "Session 6 of the scenario \"A study in Dust and Stone\" for Call of Cthulhu 7th ed, where some light is shed upon the situation"
 ---
-
 ## Scene setup
 
 > Story Direction Table Roll

@@ -8,9 +8,10 @@ tags: ["Delta Green","PARALLAX"]
 cover:
     image: /images/2026/04/WC-CoolRoof.jpg
     alt: "PARALLAX, Session 10: Hypergeometry"
-description: 
+description:
+image: /images/2026/04/WC-CoolRoof.jpg
+summary: "Session 10 of the campaign PARALLAX for Delta Green, where the team faces an unexpected unnatural danger"
 ---
-
 ## Scene setup
 
 > **Expectations:** Lawrence goes visit Jo. The rest of the team might spot Robertson outside the hospital

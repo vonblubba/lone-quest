@@ -8,9 +8,10 @@ tags: ["Blade Runner","Vestigial Memories"]
 cover:
     image: /images/2026/02/br_large_handout_sheets_snake_pit.webp
     alt: "Vestigial Memories, Session 15: The Snake Pit"
-description: 
+description:
+image: /images/2026/02/br_large_handout_sheets_snake_pit.webp
+summary: "Session 15 of the scenario \"Vestigial Memories\" for the Blade Runner RPG, where Locke's enemies are closing in."
 ---
-
 ## **Scene setup**
 
 > **Countdown event roll:**

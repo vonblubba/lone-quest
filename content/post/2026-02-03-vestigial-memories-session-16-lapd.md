@@ -8,9 +8,10 @@ tags: ["Blade Runner","Vestigial Memories"]
 cover:
     image: /images/2026/02/br_core07_working_the_case_158-159-1-1.webp
     alt: "Vestigial Memories, Session 16: LAPD"
-description: 
+description:
+image: /images/2026/02/br_core07_working_the_case_158-159-1-1.webp
+summary: "Session 16 of the scenario \"Vestigial Memories\" for the Blade Runner RPG, where Locke finally pieces together the whole mess."
 ---
-
 ## Scene setup
 
 > Event countdown timer roll

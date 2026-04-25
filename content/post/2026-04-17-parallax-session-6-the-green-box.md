@@ -12,7 +12,6 @@ cover:
 description: 
 summary: "Session 6 of the campaign PARALLAX for Delta Green, where a party is formed."
 ---
-
 ## Scene setup
 
 > **Expectations:** Lawrence meets the team in a safehouse and gets the details of operation PARALLAX.

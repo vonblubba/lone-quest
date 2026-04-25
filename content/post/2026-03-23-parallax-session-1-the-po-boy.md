@@ -8,9 +8,10 @@ tags: ["Delta Green","PARALLAX"]
 cover:
     image: /images/2026/03/office.png
     alt: "PARALLAX, Session 1: The po-boy"
-description: 
+description:
+image: /images/2026/03/office.png
+summary: "Session 1 of the campaign PARALLAX for Delta Green, where Lawrence gets some work to do."
 ---
-
 ## Scene setup
 
 I am using scene setup tables from [Rogue Handler](https://www.drivethrurpg.com/en/product/352748/rogue-handler).

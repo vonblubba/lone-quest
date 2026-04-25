@@ -8,9 +8,10 @@ tags: ["Blade Runner","Vestigial Memories"]
 cover:
     image: /images/2026/01/br_core01_fiery_the-angels_fell_4-5.webp
     alt: "Vestigial Memories, Session 11: Hawker's Circle"
-description: 
+description:
+image: /images/2026/01/br_core01_fiery_the-angels_fell_4-5.webp
+summary: "Session 11 of the scenario \"Vestigial Memories\" for the Blade Runner RPG, where Locke takes some time off that leads to an unexpected meeting."
 ---
-
 ## Scene setup
 
 > **Downtime event table roll**

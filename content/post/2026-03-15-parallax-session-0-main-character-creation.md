@@ -10,8 +10,8 @@ cover:
     alt: "PARALLAX, Session 0: Main character creation"
 description: 
 summary: "Session 0 for the Delta Green campaign PARALLAX, where we meet the main character, Lawrence Bartolini"
+image: /images/2026/03/delta-green-conspiracy-top.jpg
 ---
-
 This log entry marks the beginning of a new solo campaign for Delta Green by [Arc Dream Publishing](https://arcdream.com).
 
 Delta Green is by far my favorite RPG setting and I presonally consider [Impossible Landscapes](https://www.drivethrurpg.com/product/344408/Delta-Green-Impossible-Landscapes.php) to be the best RPG campaign ever written. You have been warned 😄

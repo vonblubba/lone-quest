@@ -5,14 +5,13 @@ title: "PARALLAX, Session 7: The Motel"
 draft: false
 slug: parallax-session-7-the-motel
 tags: ["Delta Green","PARALLAX"]
-image: "/images/2026/04/What-is-a-Motel-1.webp"
 cover:
     image: /images/2026/04/What-is-a-Motel-1.webp
     alt: "PARALLAX, Session 7: The Motel"
 description: 
+image: /images/2026/04/What-is-a-Motel-1.webp
 summary: "Session 7 of the campaign PARALLAX for Delta Green, where another victim of the tatto is met."
 ---
-
 ## Scene setup
 
 **Scene Expectations**

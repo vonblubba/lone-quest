@@ -8,9 +8,10 @@ tags: ["Call of Cthulhu","A Study in Dust and Stone"]
 cover:
     image: /images/2026/03/tome_2.jpg
     alt: "A Study in Dust and Stone, Session 8: The tome"
-description: 
+description:
+image: /images/2026/03/tome_2.jpg
+summary: "Session 9 of the scenario \"A study in Dust and Stone\" for Call of Cthulhu 7th ed, where Lorenzo takes a peek at forbidden knowledge"
 ---
-
 *October 28th, 10:17 a.m. | Prof. St. Claire office*
 
 After the harrowing narrow escape from the Kraken, I secured two communicating rooms at the nearest hotel. Remy was in dire need of medical attention; I requested the receptionist summon a doctor to our suite immediately.

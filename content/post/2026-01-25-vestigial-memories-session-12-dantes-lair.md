@@ -8,9 +8,10 @@ tags: ["Blade Runner","Vestigial Memories"]
 cover:
     image: /images/2026/01/riggs_lair.png
     alt: "Vestigial Memories, Session 12: Dante's Lair"
-description: 
+description:
+image: /images/2026/01/riggs_lair.png
+summary: "Session 12 of the scenario \"Vestigial Memories\" for the Blade Runner RPG, where Locke relies on an unreliable CI to alter Vestige's data."
 ---
-
 ## Scene setup
 
 **Countdown event timer check:** [D8]: [5] => No event

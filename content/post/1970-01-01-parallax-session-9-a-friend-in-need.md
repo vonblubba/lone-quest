@@ -8,9 +8,10 @@ tags: ["Delta Green","PARALLAX"]
 cover:
     image: /images/2026/04/h.webp
     alt: "PARALLAX, Session 9: A friend in need"
-description: 
+description:
+image: /images/2026/04/h.webp
+summary: "Session 9 of the campaign PARALLAX for Delta Green, where a friend faces danger."
 ---
-
 ## Scene setup
 
 > **Expectations:** The team goes to new york looking for Hastur & Associates and goes to the company offices.

@@ -8,9 +8,10 @@ tags: ["Blade Runner","Vestigial Memories"]
 cover:
     image: /images/2026/01/ucla.jpg
     alt: "Vestigial Memories, Session 13: UCLA"
-description: 
+description:
+image: /images/2026/01/ucla.jpg
+summary: "Session 13 of the scenario \"Vestigial Memories\" for the Blade Runner RPG, where Locke finds a way to alter Vestige's data at the cost of some of his own pride."
 ---
-
 ## Scene setup
 
 > **Countdown event check:** [D10]: [8] => Event happens

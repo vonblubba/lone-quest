@@ -8,9 +8,10 @@ tags: ["Delta Green","PARALLAX"]
 cover:
     image: /images/2026/03/confroom.jpg
     alt: "PARALLAX, Session 4: Contact"
-description: 
+description:
+image: /images/2026/03/confroom.jpg
+summary: "Session 4 of the campaign PARALLAX for Delta Green, where Lawrence gets an interesting briefing."
 ---
-
 ## Scene setup
 
 > **Expectations:** Lawrence goes back to his normal life but is contacted by delta green after a few days.

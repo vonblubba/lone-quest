@@ -8,9 +8,10 @@ tags: ["Blade Runner","Vestigial Memories"]
 cover:
     image: /images/2026/01/br_core01_fiery_the-angels_fell_4-5.png
     alt: "Vestigial Memories, Session 0:  Character creation"
-description: 
+description:
+image: /images/2026/01/br_core01_fiery_the-angels_fell_4-5.png
+summary: "Session 0 of the scenario \"Vestigial Memories\" for the Blade Runner RPG, where we meet Nathaniel Locke, veteran cityspeaker for the LAPD Replicant Detection Unit."
 ---
-
 This is the beginning of a new solo adventure for the **Blade Runner RPG** by [Freelegue Publishing](https://freeleaguepublishing.com). At the moment of writing, a beta version for the solo rules is available, so that's what I will use.
 Images are from [Foundry VTT](https://foundryvtt.com) official modules for Blade Runner RPG. Images are copyright of their owner. I do not earn anything from this blog, but if the legal owner wants the images removed, I will do so.
 I also use Foundry to manage the game sessions.

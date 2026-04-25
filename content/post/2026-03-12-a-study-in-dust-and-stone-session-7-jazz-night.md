@@ -8,9 +8,10 @@ tags: ["Call of Cthulhu","A Study in Dust and Stone"]
 cover:
     image: /images/2026/03/jazz.jpg
     alt: "A Study in Dust and Stone, Session 7: Jazz night"
-description: 
+description:
+image: /images/2026/03/jazz.jpg
+summary: "Session 7 of the scenario \"A study in Dust and Stone\" for Call of Cthulhu 7th ed, where Lorenzo and Remy head for the lair of the Kraken."
 ---
-
 ## Scene setup
 
 > Story Direction Table Roll

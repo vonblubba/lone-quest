@@ -8,9 +8,10 @@ tags: ["Call of Cthulhu","A Study in Dust and Stone"]
 cover:
     image: /images/2026/02/bd413ddb75ff33f6bd1e5a61ea552057.jpg
     alt: "A Study in Dust and Stone, Session 4: Prophecy"
-description: 
+description:
+image: /images/2026/02/bd413ddb75ff33f6bd1e5a61ea552057.jpg
+summary: "Session 4 of the scenario \"A study in Dust and Stone\" for Call of Cthulhu 7th ed, where a dream becomes a prophecy."
 ---
-
 ## Scene setup
 
 > **Story Direction Table Roll**

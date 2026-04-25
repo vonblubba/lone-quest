@@ -8,9 +8,10 @@ tags: ["Call of Cthulhu","A Study in Dust and Stone"]
 cover:
     image: /images/2026/02/banner_00.png
     alt: "A Study in Dust and Stone, Session 0:  Main Character creation"
-description: 
+description:
+image: /images/2026/02/banner_00.png
+summary: "Session 0 of the scenario \"A study in Dust and Stone\" for Call of Cthulhu 7th ed., where we meet Loenzo Bartolini, Florentine antiquarian."
 ---
-
 This marks the beginning of a new solo campaign for [**Call of Cthulhu 7th Edition**](https://www.foundryvtt.store/products/cha-coc-fvtt-en-keeperitems). To build our protagonist, I utilized the *Investigator Creation Wizard* within [**Foundry VTT**](https://foundryvtt.com), allowing the digital dice to help shape a man caught between Old World prestige and New World shadows.
 ![](/images/2026/02/Screenshot-2026-02-10-at-09.02.13.png)
 ## The Investigator: Lorenzo Bartolini
